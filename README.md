@@ -32,11 +32,10 @@ We focus on a **full-stack microservice architecture**:
 
 Each project is built with **scalability, modularity, and performance** in mind. Current initiatives include:  
 
-1. **DeepIri API Platform** – A microservice template for SaaS applications with authentication, data storage, and analytics modules.  
-2. **RAG-Powered Knowledge Platform** – Integrating Retrieval-Augmented Generation (RAG) for intelligent data querying.  
-3. **Microservice SaaS Examples** – Sample apps demonstrating microservice best practices and CI/CD integration.  
+1. 
+2. 
 
-*(More projects coming soon – see the Projects folder for updates.)*  
+
 
 ---
 
