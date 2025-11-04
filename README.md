@@ -42,7 +42,7 @@ Each project is built with **scalability, modularity, and performance** in mind.
 ##  Connect With Us
 
 - GitHub: [DeepIri](https://github.com/deepiri)  
-- Discord / Slack: Invite link coming soon  
+- Discord: [DeepIri Discord](https://discord.gg/B3Tx4Wmx)
 - Email: contact@deepiri.io  
 
 ---
