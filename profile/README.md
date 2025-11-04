@@ -1,6 +1,6 @@
 # DeepIri
 
-![DeepIri Logo](logo.png)  
+![DeepIri Logo](../logo.png)  
 
 **DeepIri** is a collaborative software development team focused on designing, building, and scaling **microservice-based SaaS products**. Our mission is to create modern, modular, and maintainable solutions that leverage cloud-native architectures, AI-powered automation, and cutting-edge development practices.  
 
