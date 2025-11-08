@@ -15,31 +15,6 @@
 
 ---
 
-## Our Stack
-
-We focus on a **full-stack microservice architecture**:
-
-**Backend:**  
-Node.js, Python (FastAPI / Flask), Go  
-
-**Frontend:**  
-React.js, Vue.js, TypeScript  
-
-**Databases:**  
-PostgreSQL, MongoDB, Redis  
-
-**Cloud & DevOps:**  
-Docker, Kubernetes, AWS, GCP, CI/CD pipelines  
-
-**AI/ML:**  
-PyTorch, TensorFlow, NLP & ML APIs  
-
-**Monitoring & Logging:**  
-Prometheus, Grafana, ELK stack
-
-
----
-
 ## Connect With Us
 
 **GitHub:** [DeepIri](https://github.com/deepiri)  
