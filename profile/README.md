@@ -20,7 +20,7 @@ We’re here to help you succeed—whether you’re a seasoned dev or just curio
 
 ## ❤️ Special Thanks
 
-To Joe Black and every contributor: your creativity, curiosity, and kindness make Deepiri possible. We’re grateful for you!
+To Joe Black and every contributor: your creativity, curiosity, and kindness make DeepIri possible. We’re grateful for you!
 
 ---
 
